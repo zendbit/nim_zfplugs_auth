@@ -3,17 +3,8 @@ https://github.com/zendbit/nim.zfcore
 
 #### install
 ```
-nimble install zfplugs@#head
+nimble install zfplugs_auth@#head
 ```
 
-#### usage
-available plugins
-```
-zfplugs/auth
-zfplugs/csrf
-zfplugs/zview
-zfplugs/dbms
-zfplugs/paging
-zfplugs/settings
-zfplugs/session 
-```
+#### description
+this is plugin for zfcore frameworks contains authorization helper
