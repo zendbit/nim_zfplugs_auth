@@ -1,5 +1,5 @@
 ### zfplugs is plugins for the zfcore framework
-https://github.com/zendbit/nim.zfcore
+https://github.com/zendbit/nim_zfcore
 
 #### install
 ```
